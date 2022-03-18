@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+:computer: I'm a first-class computer science graduate.
+
 🔭 I’m currently working as a developer at Opencast Software.
 
 🌱 I’m currently learning Scala.
