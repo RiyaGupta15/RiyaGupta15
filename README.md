@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:computer: I'm a first-class computer science graduate.
+:computer: I'm a computer science graduate.
 
 🔭 I’m currently working as a developer at Opencast Software.
 
