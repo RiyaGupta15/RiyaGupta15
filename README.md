@@ -26,3 +26,12 @@
 <a href="https://www.linkedin.com/in/RiyaGupta15/">
     <img src="https://raw.githubusercontent.com/RiyaGupta15/RiyaGupta15/master/images/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
+
+### 🚧 I build with
+<a href="https://www.linkedin.com/in/RiyaGupta15/">
+    <img src="https://raw.githubusercontent.com/RiyaGupta15/RiyaGupta15/master/images/dev/tools/jetbrains_intellij.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/RiyaGupta15/">
+    <img src="https://raw.githubusercontent.com/RiyaGupta15/RiyaGupta15/master/images/dev/tools/visualstudio_code.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
