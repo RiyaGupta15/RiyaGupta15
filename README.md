@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/RiyaGupta15/RiyaGupta15/master/images/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
   </a>
   
-<a>
+<a href="">
     <img src="https://raw.githubusercontent.com/RiyaGupta15/RiyaGupta15/master/images/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   </a>
 
