@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/RiyaGupta15/RiyaGupta15/master/images/dev/languages/html.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
   
-<a href="https://www.linkedin.com/in/RiyaGupta15/">
+<a href="https://www.linkedin.com/in/riyaagupta/">
     <img src="https://raw.githubusercontent.com/RiyaGupta15/RiyaGupta15/master/images/dev/languages/python.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
